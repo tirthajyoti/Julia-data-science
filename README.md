@@ -6,7 +6,7 @@ Julia, a general purpose programming language is made specifically for scientifi
 
 It is a multi-paradigm ([dynamically-typed](https://android.jlelse.eu/magic-lies-here-statically-typed-vs-dynamically-typed-languages-d151c7f95e2b), partially [functional](https://en.wikipedia.org/wiki/Functional_programming), and partially [object-oriented](https://en.wikipedia.org/wiki/Object-oriented_programming)) programming language designed for scientific and technical computing. It provides significant performance benefits over Python (when used without optimization and vector computing using Cython and NumPy).
 
-## Why it is awesome?
+### Why is it awesome?
 
 (Read more [here](https://www.quora.com/What-is-so-special-about-the-Julia-programming-language))
 
@@ -16,7 +16,11 @@ It is a multi-paradigm ([dynamically-typed](https://android.jlelse.eu/magic-lies
 
 - **GPU Support**: It is directly related to performance. GPU support is transparently controlled by some packages such as `TensorFlow.jl` and `MXNet.jl`.
 
-- **Distributed and Parallel Computing Support**: Julia supports parallel and distributed computing transparently using many topologies. And there is also support for coroutines, like in Go programming language, which are helper functions that work in parallel on the Multicore architecture. Extensive support for threads and synchronization is primarily designed to maximize performance and reduce the risk of race conditions. 
+- **Distributed and Parallel Computing Support**: Julia supports parallel and distributed computing transparently using many topologies. And there is also support for coroutines, like in Go programming language, which are helper functions that work in parallel on the Multicore architecture. Extensive support for threads and synchronization is primarily designed to maximize performance and reduce the risk of race conditions.
+
+- **Rich data science and visualization libraries**: Julia community understands that it was conceived as a go-to language for data scientists and statisticians. Therefore, high-performance libraries focusing on data science and analytics are always in development.
+
+- **Teamwork (with other languages/frameworks)**: Julia plays really really well with other established languages and frameworks for data science and machine learning. Using `PyCall` or `RCall` one can use native Python or R code isnide a Julia script. The `Plots` package works with various backend including `Matplotlib` and `Plotly`. Popular machine learning libraries like `Scikit-learn` or `TensorFlow` already have Julia equivalent or wrappers.
 
 ## The Julia Community: Who is a user?¶
 

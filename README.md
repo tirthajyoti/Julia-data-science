@@ -1,10 +1,20 @@
 # Data science with Julia
 
-## What is Julia and why it is suitable for data science?
+## What is Julia and why is it particularly suitable for data science?
+
+___"Walks like Python, runs like C"___ - this has been said about Julia, a modern programming language, focused on scientific computing, created by MIT folks and having an ever increasing base of followers and developers.
 
 Julia, a general purpose programming language is made specifically for scientific computing. It is a flexible dynamic language with performance comparable to traditional statically-typed languages. Julia tries to provide a single environment productive enough for prototyping and efficient for industry grade applications.
 
 It is a multi-paradigm ([dynamically-typed](https://android.jlelse.eu/magic-lies-here-statically-typed-vs-dynamically-typed-languages-d151c7f95e2b), partially [functional](https://en.wikipedia.org/wiki/Functional_programming), and partially [object-oriented](https://en.wikipedia.org/wiki/Object-oriented_programming)) programming language designed for scientific and technical computing. It provides significant performance benefits over Python (when used without optimization and vector computing using Cython and NumPy).
+
+### A (very) short history and the open-source nature
+
+The inception of this programming language can be traced back to 2009. The lead developers Alan Edelman, Jeff Bezanson, Stefan Karpinski and Viral Shah started working on creating a language that can be used for better and faster numerical computing. The developers were able to launch a commercial release on February 2012.
+
+Since then, the language has become very popular among the programmers as it provides the ease of many high-level languages with a better performance. The language was launched under a liberal MIT license. This means that Julia is an open source language which can be used and/or modified without any right infringement.
+
+[See this article](https://www.cleverism.com/skills-and-tools/julia/)
 
 ### Why is it awesome?
 

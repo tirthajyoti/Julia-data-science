@@ -2,7 +2,7 @@
 
 ## What is Julia and why is it particularly suitable for data science?
 
-___"Walks like Python, runs like C"___ - this has been said about Julia, a modern programming language, focused on scientific computing, and having an ever increasing base of followers and developers.
+___"Walks like Python, runs like C"___ - it has been said about Julia, a modern programming language, focused on scientific computing, and having an ever increasing base of followers and developers.
 
 Julia, a general purpose programming language is made specifically for scientific computing. It is a flexible dynamic language with performance comparable to traditional statically-typed languages. Julia tries to provide a single environment productive enough for prototyping and efficient for industry grade applications.
 

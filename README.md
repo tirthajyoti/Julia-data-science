@@ -1,6 +1,6 @@
 # Data science with Julia
 
-## What is Julia and why is it particularly suitable for data science?
+## What is _Julia_ and why is it particularly suitable for data science?
 
 ___"Walks like Python, runs like C"___ - it has been said about Julia, a modern programming language, focused on scientific computing, and having an ever increasing base of followers and developers.
 
